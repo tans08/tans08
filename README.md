@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey there! I'm Tanisha 
 
-<!--
-**tans08/tans08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web Developer** and a **second-year college student** passionate about building cool and interactive web experiences.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend / Programming:** Python, C++, C  
+- **Database:** MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Interests
+- 💡 IoT-based projects
+- 💻 Full-stack development
+- 🧠 Learning new technologies
+
+## 🚀 Current Goals
+- Sharpening my web dev skills  
+- Exploring more real-world IoT applications  
+- Building meaningful open-source projects
+
+## 🤝 Let's Connect
+Open to collaborations, side projects, and cool tech convos!  
+Feel free to reach out or check out my work here on GitHub.
+
+---
+
+_“Code, create, and never stop learning.”_
